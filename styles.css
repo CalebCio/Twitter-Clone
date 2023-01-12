@@ -160,7 +160,7 @@ body {
   }
 
   .post__body img{
-    width: 450px;
+    max-width: 450px;
     object-fit: contain;
     border-radius: 20px;
   }
